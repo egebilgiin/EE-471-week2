@@ -1,2 +1,3 @@
-#This script is written by Ege Bilgin
+# Senior Dev: Ege Bilgin
 print("Hello, World!")
+# pleaseConformOnepass method
